@@ -1,17 +1,17 @@
 # Path Blocker Game
 
-## 🧩 Overview
+## Overview
 **Path Blocker** is a Java-based puzzle game where players solve levels to reach specific goals. Each level presents a unique challenge, encouraging strategic thinking and problem-solving skills.
 
 ---
 
-## ✨ Features
+## Features
 - **10 Unique Levels**: Levels increase in difficulty as players progress.
 - **Algorithmic Pathfinding**: Utilizes **Breadth-First Search (BFS)**, an optimal graph traversal algorithm, to solve puzzles efficiently.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 The project consists of the following components:
 
 ### Level Files
